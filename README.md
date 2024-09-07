@@ -6,4 +6,4 @@ Cloud GeoLocator
 </br>
 • Paper published in Springer Nature.
 </br>
-[Springer](https://www.atlantis-press.com/proceedings/icciet-24/126002056)
+[Springer Paper Link](https://www.atlantis-press.com/proceedings/icciet-24/126002056)
